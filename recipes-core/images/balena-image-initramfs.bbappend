@@ -1,0 +1,1 @@
+PACKAGE_INSTALL_append_odyssey-x86 = " acpi-tables"
